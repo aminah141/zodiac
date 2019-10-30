@@ -1,0 +1,28 @@
+body {
+  color: rbg(65,75,86)
+  font-family: calibri;
+  margin: 0px
+}
+div {
+  min-height: 10vh;
+  width:100%;
+  box-sizing: border-box;
+  width: 50%;
+  text-align: center;
+  border width: 10px 1px;
+  padding: 20px 10px 10px 20px;
+}
+h1, h2 {
+  text-align: center;
+}
+h1 {
+  font-size: 5em;
+  border-style: solid;
+  border-width: thin;
+}
+h2 {
+  font-size: 1em;
+  padding: 10px 20px 20px 10px;
+  border: 1px solid blue;
+  padding: 10px;
+}
